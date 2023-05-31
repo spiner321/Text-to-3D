@@ -1,0 +1,1 @@
+python main.py -O --text "(masterpiece:2.0), spreaded trump card on the table" --workspace trial/horse --iters 10000 --lr 0.001 --w 64 --h 64 --seed 0 --lambda_entropy 0.0001 --ckpt latest --save_mesh --max_steps 512
